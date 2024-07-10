@@ -1,0 +1,67 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPAfcTvCK7G8wl0bHcPDdvi",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/iamiratsh/Amir2020/blob/main/Untitled10.ipynb6\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#برنامه ای بنویسید 3 عدد صحیح a b C را گرفته آنگاه بزرگترین آن ها را خروجی دهد\n",
+        "#include <iostream>\n",
+        "Main()\n",
+        "{\n",
+        "int, a,b,c,max;\n",
+        "Cin >>a>>b>>c;\n",
+        "max=a;\n",
+        "if(b>max)\n",
+        "   max = b;\n",
+        "if(c>max)\n",
+        "   max = c;\n",
+        "Cout<<max;\n",
+        "}"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 127
+        },
+        "id": "W4gMHqQ115wP",
+        "outputId": "accf2faf-9536-4a80-d3f0-1b8c3dcf32ee"
+      },
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "invalid syntax (<ipython-input-5-2920d85d56c0>, line 5)",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-5-2920d85d56c0>\"\u001b[0;36m, line \u001b[0;32m5\u001b[0m\n\u001b[0;31m    int, a,b,c,max;\u001b[0m\n\u001b[0m                  ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
