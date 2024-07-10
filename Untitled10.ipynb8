@@ -1,0 +1,58 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOeYqmkeRCypAitgKmzeY4D",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/iamiratsh/Amir2020/blob/main/Untitled10.ipynb8\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#کد نهایی ک م م\n",
+        "def lcm(x, y):\n",
+        "   if x > y:\n",
+        "       lcm_ = x\n",
+        "   else:\n",
+        "       lcm_ = y\n",
+        "\n",
+        "   while(True):\n",
+        "       if((lcm_ % x == 0) and (lcm_ % y == 0)):\n",
+        "           break\n",
+        "       lcm_ += 1\n",
+        "\n",
+        "   return lcm_\n",
+        "\n",
+        "\n",
+        "num1 = int(input())\n",
+        "num2 = int(input())\n",
+        "print(\"lcm: \", lcm(num1, num2))"
+      ],
+      "metadata": {
+        "id": "5nMsxzsU9qof"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
