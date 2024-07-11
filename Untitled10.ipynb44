@@ -1,0 +1,52 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPuUS5bvLwVuG50EGfN8fzT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/iamiratsh/Amir2020/blob/main/Untitled10.ipynb44\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "class Calculator:\n",
+        "    def __init__(self):\n",
+        "        self.__result = 0\n",
+        "\n",
+        "    def add(self, num):\n",
+        "        self.__add_private(num)\n",
+        "\n",
+        "    def __add_private(self, num):\n",
+        "        self.__result += num\n",
+        "\n",
+        "    def get_result(self):\n",
+        "        return self.__result"
+      ],
+      "metadata": {
+        "id": "v70uaLqqZzy8"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
