@@ -1,0 +1,101 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyONerCZ7XqL6U4g+6w31fU2",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/iamiratsh/Amir2020/blob/main/Untitled10.ipynb16\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "{\n",
+        "  \"nbformat\": 4,\n",
+        "  \"nbformat_minor\": 0,\n",
+        "  \"metadata\": {\n",
+        "    \"colab\": {\n",
+        "      \"provenance\": [],\n",
+        "      \"authorship_tag\": \"ABX9TyP2I1YYAc2dE2AH4Ek9gAsi\",\n",
+        "      \"include_colab_link\": true\n",
+        "    },\n",
+        "    \"kernelspec\": {\n",
+        "      \"name\": \"python3\",\n",
+        "      \"display_name\": \"Python 3\"\n",
+        "    },\n",
+        "    \"language_info\": {\n",
+        "      \"name\": \"python\"\n",
+        "    }\n",
+        "  },\n",
+        "  \"cells\": [\n",
+        "    {\n",
+        "      \"cell_type\": \"markdown\",\n",
+        "      \"metadata\": {\n",
+        "        \"id\": \"view-in-github\",\n",
+        "        \"colab_type\": \"text\"\n",
+        "      },\n",
+        "      \"source\": [\n",
+        "        \"<a href=\\\"https://colab.research.google.com/github/Whyoblomovisme/barname-nevisi/blob/main/CalssCaruntitled5.ipynb\\\" target=\\\"_parent\\\"><img src=\\\"https://colab.research.google.com/assets/colab-badge.svg\\\" alt=\\\"Open In Colab\\\"/></a>\"\n",
+        "      ]\n",
+        "    },\n",
+        "    {\n",
+        "      \"cell_type\": \"code\",\n",
+        "      \"source\": [\n",
+        "        \"class car:\\n\",\n",
+        "        \"    def __init__(self, name, w):\\n\",\n",
+        "        \"         self.name=name\\n\",\n",
+        "        \"         self.w=w\\n\",\n",
+        "        \"    def __lt__(self, other):\\n\",\n",
+        "        \"         return self.w<other.w\\n\",\n",
+        "        \"car1=car('k',100)\\n\",\n",
+        "        \"car2=car('p', 200)\\n\",\n",
+        "        \"print(car1<car2)\"\n",
+        "      ],\n",
+        "      \"metadata\": {\n",
+        "        \"colab\": {\n",
+        "          \"base_uri\": \"https://localhost:8080/\"\n",
+        "        },\n",
+        "        \"id\": \"AlXtAPlEP7hJ\",\n",
+        "        \"outputId\": \"aea275cf-ae7f-4ed6-8021-6498af09a069\"\n",
+        "      },\n",
+        "      \"execution_count\": null,\n",
+        "      \"outputs\": [\n",
+        "        {\n",
+        "          \"output_type\": \"stream\",\n",
+        "          \"name\": \"stdout\",\n",
+        "          \"text\": [\n",
+        "            \"True\\n\"\n",
+        "          ]\n",
+        "        }\n",
+        "      ]\n",
+        "    }\n",
+        "  ]\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "eUzbWv0VJY8E"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
