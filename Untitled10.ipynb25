@@ -1,0 +1,93 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOnBh9Dz+AhuHjOUjc1Zuza",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/iamiratsh/Amir2020/blob/main/Untitled10.ipynb25\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "{\n",
+        "  \"nbformat\": 4,\n",
+        "  \"nbformat_minor\": 0,\n",
+        "  \"metadata\": {\n",
+        "    \"colab\": {\n",
+        "      \"provenance\": [],\n",
+        "      \"authorship_tag\": \"ABX9TyNBosbNDzGhp8tQ9vtpyhst\",\n",
+        "      \"include_colab_link\": true\n",
+        "    },\n",
+        "    \"kernelspec\": {\n",
+        "      \"name\": \"python3\",\n",
+        "      \"display_name\": \"Python 3\"\n",
+        "    },\n",
+        "    \"language_info\": {\n",
+        "      \"name\": \"python\"\n",
+        "    }\n",
+        "  },\n",
+        "  \"cells\": [\n",
+        "    {\n",
+        "      \"cell_type\": \"markdown\",\n",
+        "      \"metadata\": {\n",
+        "        \"id\": \"view-in-github\",\n",
+        "        \"colab_type\": \"text\"\n",
+        "      },\n",
+        "      \"source\": [\n",
+        "        \"<a href=\\\"https://colab.research.google.com/github/Whyoblomovisme/barname-nevisi/blob/main/Instance%20variable%20untitled5.ipynb\\\" target=\\\"_parent\\\"><img src=\\\"https://colab.research.google.com/assets/colab-badge.svg\\\" alt=\\\"Open In Colab\\\"/></a>\"\n",
+        "      ]\n",
+        "    },\n",
+        "    {\n",
+        "      \"cell_type\": \"markdown\",\n",
+        "      \"source\": [],\n",
+        "      \"metadata\": {\n",
+        "        \"id\": \"OFQSfNtApWFd\"\n",
+        "      }\n",
+        "    },\n",
+        "    {\n",
+        "      \"cell_type\": \"code\",\n",
+        "      \"source\": [\n",
+        "        \"class b:\\n\",\n",
+        "        \"    def setvar(self,a,b):\\n\",\n",
+        "        \"        self.x=a\\n\",\n",
+        "        \"        c=a*b\\n\",\n",
+        "        \"        selfie.y=c\\n\",\n",
+        "        \"t=b()\"\n",
+        "      ],\n",
+        "      \"metadata\": {\n",
+        "        \"id\": \"8OY2LwgYR22R\"\n",
+        "      },\n",
+        "      \"execution_count\": null,\n",
+        "      \"outputs\": []\n",
+        "    }\n",
+        "  ]\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "V94ZQJcfSGF7"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
