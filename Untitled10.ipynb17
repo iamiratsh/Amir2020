@@ -1,0 +1,105 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNIO9BjMZwh+AKtt0FffThq",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/iamiratsh/Amir2020/blob/main/Untitled10.ipynb17\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "{\n",
+        "  \"nbformat\": 4,\n",
+        "  \"nbformat_minor\": 0,\n",
+        "  \"metadata\": {\n",
+        "    \"colab\": {\n",
+        "      \"provenance\": [],\n",
+        "      \"authorship_tag\": \"ABX9TyNPpKzBrCgPKYXFcxNgcF+q\",\n",
+        "      \"include_colab_link\": true\n",
+        "    },\n",
+        "    \"kernelspec\": {\n",
+        "      \"name\": \"python3\",\n",
+        "      \"display_name\": \"Python 3\"\n",
+        "    },\n",
+        "    \"language_info\": {\n",
+        "      \"name\": \"python\"\n",
+        "    }\n",
+        "  },\n",
+        "  \"cells\": [\n",
+        "    {\n",
+        "      \"cell_type\": \"markdown\",\n",
+        "      \"metadata\": {\n",
+        "        \"id\": \"view-in-github\",\n",
+        "        \"colab_type\": \"text\"\n",
+        "      },\n",
+        "      \"source\": [\n",
+        "        \"<a href=\\\"https://colab.research.google.com/github/Whyoblomovisme/barname-nevisi/blob/main/Calssxuntitled5.ipynb\\\" target=\\\"_parent\\\"><img src=\\\"https://colab.research.google.com/assets/colab-badge.svg\\\" alt=\\\"Open In Colab\\\"/></a>\"\n",
+        "      ]\n",
+        "    },\n",
+        "    {\n",
+        "      \"cell_type\": \"code\",\n",
+        "      \"source\": [\n",
+        "        \"class x:\\n\",\n",
+        "        \"     def test(self,k=10,p=10):\\n\",\n",
+        "        \"       if(k!=10 and p!=10):\\n\",\n",
+        "        \"        self.k=k\\n\",\n",
+        "        \"        self.p=p\\n\",\n",
+        "        \"        return k*p\\n\",\n",
+        "        \"       elif(k is not 10 and p==10):\\n\",\n",
+        "        \"        return 3.14*k*k\\n\",\n",
+        "        \"       else :\\n\",\n",
+        "        \"        return 100\"\n",
+        "      ],\n",
+        "      \"metadata\": {\n",
+        "        \"colab\": {\n",
+        "          \"base_uri\": \"https://localhost:8080/\"\n",
+        "        },\n",
+        "        \"id\": \"anNcEidLT0sP\",\n",
+        "        \"outputId\": \"d0d3c139-9c00-437b-a3b4-32edff834814\"\n",
+        "      },\n",
+        "      \"execution_count\": null,\n",
+        "      \"outputs\": [\n",
+        "        {\n",
+        "          \"output_type\": \"stream\",\n",
+        "          \"name\": \"stderr\",\n",
+        "          \"text\": [\n",
+        "            \"<>:7: SyntaxWarning: \\\"is not\\\" with a literal. Did you mean \\\"!=\\\"?\\n\",\n",
+        "            \"<>:7: SyntaxWarning: \\\"is not\\\" with a literal. Did you mean \\\"!=\\\"?\\n\",\n",
+        "            \"<ipython-input-23-90aa6ca1bc15>:7: SyntaxWarning: \\\"is not\\\" with a literal. Did you mean \\\"!=\\\"?\\n\",\n",
+        "            \"  elif(k is not 10 and p==10):\\n\"\n",
+        "          ]\n",
+        "        }\n",
+        "      ]\n",
+        "    }\n",
+        "  ]\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "6v1TGi4SKZzv"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
